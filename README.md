@@ -14,14 +14,3 @@ Current language translators find it challenging to adhere to the unique sentenc
 
 *Sentiment Analysis and Named Entity Recognition* - The annotated dataset will be used to perform various NLP tasks such as Sentiment Analysis and Named Entity Recognition. 
 
-### Project screenshots
-
-![image](https://github.com/DDR-1/tamil-sa-ner-react-app/assets/73418471/ffff622b-5511-4646-bb34-f78916e79d19)
-
-![image](https://github.com/DDR-1/tamil-sa-ner-react-app/assets/73418471/48e4f279-1cc7-44b9-9992-4a2f34e93180)
-
-![image](https://github.com/DDR-1/tamil-sa-ner-react-app/assets/73418471/15989db3-a707-4b9d-9c73-b243f22e6296)
-
-![image](https://github.com/DDR-1/tamil-sa-ner-react-app/assets/73418471/86b4e252-b737-43d4-ae4f-bab7e0fa07c9)
-
-![image](https://github.com/DDR-1/tamil-sa-ner-react-app/assets/73418471/23612f86-df1e-4822-9580-a63923d1b5d8)
